@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\tiyatro-main\devlet tiyoatrosu\bin\Debug\devlet tiyoatrosu.exe.config
+C:\Users\User\Downloads\tiyatro-main\devlet tiyoatrosu\bin\Debug\devlet tiyoatrosu.exe
+C:\Users\User\Downloads\tiyatro-main\devlet tiyoatrosu\bin\Debug\devlet tiyoatrosu.pdb
+C:\Users\User\Downloads\tiyatro-main\devlet tiyoatrosu\obj\Debug\devlet tiyoatrosu.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\tiyatro-main\devlet tiyoatrosu\obj\Debug\devlet tiyoatrosu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\tiyatro-main\devlet tiyoatrosu\obj\Debug\devlet_tiyoatrosu.Form1.resources
+C:\Users\User\Downloads\tiyatro-main\devlet tiyoatrosu\obj\Debug\devlet_tiyoatrosu.Properties.Resources.resources
+C:\Users\User\Downloads\tiyatro-main\devlet tiyoatrosu\obj\Debug\devlet tiyoatrosu.csproj.GenerateResource.cache
+C:\Users\User\Downloads\tiyatro-main\devlet tiyoatrosu\obj\Debug\devlet tiyoatrosu.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\tiyatro-main\devlet tiyoatrosu\obj\Debug\devlet tiyoatrosu.exe
+C:\Users\User\Downloads\tiyatro-main\devlet tiyoatrosu\obj\Debug\devlet tiyoatrosu.pdb
